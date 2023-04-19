@@ -1,0 +1,6 @@
+双击Install.bat进行安装
+
+安装后对应版本的ForestPackPro.dlo到C:\Program Files\Autodesk\3ds Max 2019\Plugins，完成替换破解
+
+
+
